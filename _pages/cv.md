@@ -1,12 +1,12 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
 nav_order: 5
-cv_pdf: cv.pdf
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description:
 ---
+
+<a href="/assets/pdf/cv.pdf" target="_blank">Download my CV (PDF)</a>
+
+<iframe src="/assets/pdf/cv.pdf" width="100%" height="800px" style="border: none;"></iframe>
