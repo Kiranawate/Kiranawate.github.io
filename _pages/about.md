@@ -29,6 +29,5 @@ latest_posts:
 ---
 
 Knowledge drives innovation, but it rarely stays in one place. Artificial intelligence has brought this tension into sharper view. Models developed at considerable cost in one country can appear elsewhere within months, as knowledge travels through research papers, people, and the models themselves. My research examines a similar dynamic among firms and inventors. Ideas often become more valuable when they are shared with partners, combined with the expertise of talented people, and developed through wider networks. At the same time, the channels that support collaboration can also carry knowledge beyond the firms that created it. I study how knowledge moves through networks of firms and inventors, how firms manage the benefits and risks of that movement, and how they compete when valuable ideas are difficult to contain.
-.
 
 I teach Managerial Analytics, Strategic Management, and International Business.
