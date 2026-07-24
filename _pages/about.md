@@ -12,6 +12,7 @@ profile:
     <p style="font-family: Roboto, sans-serif; font-size: 0.85rem;">2108 Pamplin Hall</p>
     <p style="font-family: Roboto, sans-serif; font-size: 0.85rem;">880 West Campus Dr</p>
     <p style="font-family: Roboto, sans-serif; font-size: 0.85rem;">Blacksburg, VA 24060</p>
+     <p style="font-family: Roboto, sans-serif; font-size: 0.85rem;">email: akiran@vt.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
